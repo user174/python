@@ -40,8 +40,11 @@ while g==0:
         print("   ")
         print("謝謝遊玩,一共是九千四百八十七元")
         g=12
-    
-
+    if s!=0 and s!=1 and s!=2 and s!=3 and s!=4 and s!=5 and s!=6:
+        print("   ") 
+        print("作為一台有智慧的計算機,我不喜歡有人耍我")
+        g=12
+        
 
     
 
